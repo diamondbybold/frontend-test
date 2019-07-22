@@ -55,7 +55,7 @@ Nós sugerimos que você utitilize [OMDb API](http://www.omdbapi.com/), embora v
 
 Dê uma olhada na pasta `/layout`, lá você encontrará tudo o que precisa.
 
-[Protótipo](./layout/)  
+[Protótipo](./layout/layout.png)  
 [Guia de estilos](./styleguide.md)
 
 ### Contato ou dúvidas
