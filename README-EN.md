@@ -6,7 +6,7 @@
 ## About the challenge
 
 
-This is a simple test in whitch you should be able to develop a _Vue/React/Angular/Svelte/Vanilla_ app , using the provided layout as reference. You'll need to make _requests_ to an API to get some _JSON_ data, filter the response and show them on the page.
+This is a simple test in which you should be able to develop a _Vue/React/Angular/Svelte/Vanilla_ app, using the provided layout as reference. You'll need to make _requests_ to an API to get some _JSON_ data, filter the response and show them on the page.
 
 You're welcome to use any boilerplate/approach you feel confortable with, but try to keep it simple. We encourage you to use your favourite dev toolset to create an app that's robust.
 
@@ -21,11 +21,11 @@ _Think about an empty state, a loading state and a no results state_
 _Think about a loading state and a no results state_
 
 
-The goal of this challenge is to evaluate your HTML, CSS, Javascript e _Vue/React/Angular/Svelte/Vanilla_, API and general approach when developing a simple Web App, with a couple of pages and an API feed. The final HMTL, CSS and Javascript code is also taken in consideration.
+The goal of this challenge is to evaluate your HTML, CSS, Javascript e _Vue/React/Angular/Svelte/Vanilla_, API and general approach when developing a simple Web App, with a couple of pages and an API feed. The final HTML, CSS and Javascript code is also taken in consideration.
 
 ## First steps
 
-1. _fork_ the current repository into your personal account;
+1. _Fork_ the current repository into your personal account;
 2. Create a _branch_ with your name;
 3. Finish the challenge in the best way possible;
 
@@ -46,7 +46,7 @@ The goal of this challenge is to evaluate your HTML, CSS, Javascript e _Vue/Reac
 - Sometimes the API server is slow, that being said, think about loading and emptying states throughout your app;
 - We're looking for something that tells us you understand concepts such as events, promises and reactivity and how those concepts are implemented in Javascript;
 - The use of unit tests will be taken into account, but not a probatory factor.
-- Your gir history will be very valuable.
+- Your git history will be very valuable.
 - The code will be evaluated by: semantics, structuring, readibility, size, elegance (amongst other things);
 
 ### Needed Info
